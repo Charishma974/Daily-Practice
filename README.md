@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Charishma974/Daily-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Charishma974/Daily-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/2868-continuous-subarrays) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
