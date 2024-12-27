@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Charishma974/Daily-Practice/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Charishma974/Daily-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Charishma974/Daily-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Charishma974/Daily-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Charishma974/Daily-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Charishma974/Daily-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
