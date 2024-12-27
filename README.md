@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Charishma974/Daily-Practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Charishma974/Daily-Practice/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Charishma974/Daily-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Charishma974/Daily-Practice/tree/master/2050-count-good-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Charishma974/Daily-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Charishma974/Daily-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Charishma974/Daily-Practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Charishma974/Daily-Practice/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Charishma974/Daily-Practice/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
