@@ -114,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Charishma974/Daily-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Charishma974/Daily-Practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Charishma974/Daily-Practice/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
