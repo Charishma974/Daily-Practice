@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Charishma974/Daily-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Charishma974/Daily-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Charishma974/Daily-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/Charishma974/Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
