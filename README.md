@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Charishma974/Daily-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/Charishma974/Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -178,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
