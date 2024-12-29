@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
