@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Charishma974/Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Charishma974/Daily-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Charishma974/Daily-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Charishma974/Daily-Practice/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Charishma974/Daily-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Charishma974/Daily-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Charishma974/Daily-Practice/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Charishma974/Daily-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
