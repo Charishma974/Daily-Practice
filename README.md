@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Charishma974/Daily-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Charishma974/Daily-Practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -201,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
