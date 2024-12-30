@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Charishma974/Daily-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Charishma974/Daily-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/Charishma974/Daily-Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Charishma974/Daily-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Charishma974/Daily-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Charishma974/Daily-Practice/tree/master/2868-continuous-subarrays) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Charishma974/Daily-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Charishma974/Daily-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Charishma974/Daily-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -195,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
