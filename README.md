@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Charishma974/Daily-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Charishma974/Daily-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Charishma974/Daily-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/Charishma974/Daily-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Charishma974/Daily-Practice/tree/master/0871-keys-and-rooms) |
+| [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Charishma974/Daily-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Charishma974/Daily-Practice/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Charishma974/Daily-Practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
+| [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Charishma974/Daily-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Topological Sort
 |  |
