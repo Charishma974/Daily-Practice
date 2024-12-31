@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Charishma974/Daily-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Charishma974/Daily-Practice/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/Charishma974/Daily-Practice/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Charishma974/Daily-Practice/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Charishma974/Daily-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Charishma974/Daily-Practice/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/Charishma974/Daily-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Charishma974/Daily-Practice/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Charishma974/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Charishma974/Daily-Practice/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Charishma974/Daily-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Charishma974/Daily-Practice/tree/master/0871-keys-and-rooms) |
@@ -249,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Charishma974/Daily-Practice/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
