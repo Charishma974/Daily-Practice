@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Charishma974/Daily-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1025-minimum-cost-for-tickets](https://github.com/Charishma974/Daily-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Charishma974/Daily-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Charishma974/Daily-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Charishma974/Daily-Practice/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Charishma974/Daily-Practice/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Charishma974/Daily-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Charishma974/Daily-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Charishma974/Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Charishma974/Daily-Practice/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Charishma974/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Charishma974/Daily-Practice/tree/master/1380-number-of-closed-islands) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Charishma974/Daily-Practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Topological Sort
