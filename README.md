@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Charishma974/Daily-Practice/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Charishma974/Daily-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Charishma974/Daily-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2032-largest-odd-number-in-string](https://github.com/Charishma974/Daily-Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Charishma974/Daily-Practice/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Charishma974/Daily-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Charishma974/Daily-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Charishma974/Daily-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Charishma974/Daily-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Charishma974/Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Charishma974/Daily-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
