@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Charishma974/Daily-Practice/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Charishma974/Daily-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Charishma974/Daily-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Charishma974/Daily-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2032-largest-odd-number-in-string](https://github.com/Charishma974/Daily-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Charishma974/Daily-Practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Charishma974/Daily-Practice/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Charishma974/Daily-Practice/tree/master/0310-minimum-height-trees) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Charishma974/Daily-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
